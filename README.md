@@ -6,3 +6,8 @@ I have made a major decision to transfer from gamemaker studio to Unity. It was 
 So I started my first project in Unity for a 2d game.
 
 My first tutorial: https://www.youtube.com/watch?v=XtQMytORBmM
+
+Notes from the tutorial
+  - C# is a very enjoyable scripting language
+  - Unity feels messy; too much going on
+  - Overall was able to build flappy birds, but there are so many missing parts!
